@@ -1,5 +1,5 @@
 # CoinCollector
-About this game :
+# About this game :
 	This is a 2 player collecting game
 	The goal of this game is to get 200 points sooner than your opponent
 	Each coin gives you 10 point so you have to collect 20 and there is 39 coins in game
