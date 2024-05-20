@@ -9,7 +9,7 @@
 
 
 
-How to Install:
+#How to Install:
 	1.Download and unzip the file
 	2.Run Project1.sln with Microsoft visual studio
 	3.Enjoy the game!
@@ -17,7 +17,7 @@ How to Install:
 
 
 
-How to play:
+#How to play:
 	. Press Enter to start!
  	. Collect yellow dots more than your opponent
 	. Collect cherries for extra move speed and invisibility against your bees
@@ -30,5 +30,5 @@ How to play:
 
 
 
-Thanks to Lynda C++ game programming course(LinkedIn) for providing some assests ans sprites
+#Thanks to Lynda C++ game programming course(LinkedIn) for providing some assests ans sprites
 
